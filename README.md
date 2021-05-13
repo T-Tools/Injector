@@ -18,4 +18,5 @@
 - Inject The Update Query
 - WAF (No Comment)
 - WAF (Banned select)
-- WAF (Banned union select)</pre>
+- WAF (Banned union select)
+- WAF (Banbed Infirmation_schema)</pre>
