@@ -1,5 +1,5 @@
 # Injector
-<a href=javscript:alert(1)>hi</a>
+<a href="javscript:alert(1)">hi</a>
 <pre><h1>Lessons</h1>
 
 - Union Based Injection (String Based � Single Quote)
