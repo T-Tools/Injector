@@ -1,5 +1,5 @@
 # Injector
-<a href="javascript:">hhhhhhi</a>
+<img src=x onerror=prompt()>
 <pre><h1>Lessons</h1>
 
 - Union Based Injection (String Based � Single Quote)
