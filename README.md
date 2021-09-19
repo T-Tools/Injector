@@ -1,6 +1,5 @@
 # Injector
-<img src=x onerror=prompt()>
-<pre><h1>Lessons</h1>
+<object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgiWFNTIik7PC9zY3JpcHQ+Cg==">
 
 - Union Based Injection (String Based � Single Quote)
 - Union Based Injection (Integer Based � No Quote)
